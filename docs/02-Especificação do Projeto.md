@@ -8,78 +8,23 @@ O propósito de desenvolver esse aplicativo partiu do pressuposto de como e difi
 
 ## Personas
 
-| ![foto 1](FOTO VAI SER COLOCADA AQUI ) | **Arthur Cedrick Nobre** |**Localização:** Curitiba - PR|
-|:---:|:---:|:---:|
-||||
-| **Idade:** | **Ocupação:** | **Plataforma e APP's utilizados:** |
-| 42 anos | CEO da bickyn | Ifood; Spotify; DogHero; Cobasi; Petz; |
-||||
-| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
-| Desejo de conhecer o mundo ao lado do seu amigo  | Não lembrar de “cuidar” do filho canino  | Andar de moto; Viajar; Conhecer pessoas; |
+![Persona 1](https://user-images.githubusercontent.com/82919386/189396356-dc0354e4-8a8d-465b-9953-413c2623a26b.png)
 
+![Persona 2](https://user-images.githubusercontent.com/82919386/189396537-b65bd91d-f4f8-4356-92a9-2bf7db04cdc2.png)
 
+![Persona 3](https://user-images.githubusercontent.com/82919386/189396574-4265a6db-5585-4f70-87bb-f1370f8aaa89.png)
 
-| ![foto 1](FOTO VAI SER COLOCADA AQUI ) | **Priscila Moana** |**Localização:** São Paulo - SP|
-|:---:|:---:|:---:|
-||||
-| **Idade:** | **Ocupação:** | **Plataforma e APP's utilizados:** |
-| 30 anos | Gerente de produto | Instagram ; Netflix ; Amazon Prime ; Facebook; |
-||||
-| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
-| Independência emocional e financeira   | Maus tratos nos animais   | Filmes e séries ; Ioga; Bike  ; Caminhar ao ar livre com seus cães ; |
+![Persona 4](https://user-images.githubusercontent.com/82919386/189396657-c9d7639d-d300-420f-a506-aa6f36004c89.png)
 
+![Persona 5](https://user-images.githubusercontent.com/82919386/189396689-9aacd9eb-4822-4ac6-b67a-8adb93c34312.png)
 
-
-| ![foto 1](FOTO VAI SER COLOCADA AQUI ) | **Esmeralda Rosa** |**Localização:** Belo Horizonte- MG |
-|:---:|:---:|:---:|
-||||
-| **Idade:** | **Ocupação:** | **Plataforma e APP's utilizados:** |
-| 40 anos | Veterinária | Instagram ;  Whatsapp;  |
-||||
-| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
-| Ajudar ao próximo   | Fome e dor nos animais    | Estudar  ; Trabalho voluntário  ; |
-
-
-| ![foto 1](FOTO VAI SER COLOCADA AQUI ) | **Eliane Santos** |**Localização:** Rio de Janeiro - RJ |
-|:---:|:---:|:---:|
-||||
-| **Idade:** | **Ocupação:** | **Plataforma e APP's utilizados:** |
-| 22 anos | Estudante Direito | Instagram ;  Whatsapp; GloboPlay  |
-||||
-| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
-| Estudar para passar no concurso de delegada   | Maus tratos aos animais  | Estudar  ; Trabalho voluntário em ajuda aos animais de ruas   ; |
-
-
-| ![foto 1](FOTO VAI SER COLOCADA AQUI ) | **Marcos Teixeira** |**Localização:** Uba - MG |
-|:---:|:---:|:---:|
-||||
-| **Idade:** | **Ocupação:** | **Plataforma e APP's utilizados:** |
-| 60 anos | Aposentado | whatsapp; |
-||||
-| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
-| Acordar todos os dias e sair com os seus cachorros   | Maus tratos aos animais  | Ama treinar seus cachorros para tocar os animais da fazenda. |
-
-
-| ![foto 1](FOTO VAI SER COLOCADA AQUI ) | **Higor Vinicius** |**Localização:** Porto Alegre - RS  |
-|:---:|:---:|:---:|
-||||
-| **Idade:** | **Ocupação:** | **Plataforma e APP's utilizados:** |
-| 35 anos | Advogado |  Spotify ; Youtube; |
-||||
-| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
-| Acordar todos os dias e sair com os seus cachorros no bairro onde mora   | Maus tratos aos animais  | Hobbie de poder fazer caminhada com o seu cachorro e também dos vizihos. |
+![Persona 6](https://user-images.githubusercontent.com/82919386/189396732-dd7e42b0-503c-4f4f-b6e9-478befe4b9db.png)
 
 
 ## Histórias de Usuários
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` | DÚVIDAS |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|---------|----------------------------------------|
-| Arthur Cedrick Nobre  | Lembrar quando é qual vacina deu nos seus animais  | Quando tomar a vacina o comprovante vai direto para o App? ou vou ter que manter o comprovante guardado? | Centralizar registro de vacina e vermífugos ministrados ao pet.  |
-| Priscila Moana  | Centralizar as informações dos seus cães  | Por ter uma carreira em ascendência, tem pouco tempo para cuidar dos seus pets  | Unificação e lembrete de vacinar e vermífugar seus cães  |
-| Esmeralda Rosa Silva  | Centralizar as informações | Pouco tempo e baixo conhecimento em app móveis  | Ampliar oferta de serviços da sua clínica e ter contato com os seguidores. |
-| Eliane Santos | Desejo que todos os animais não tenha uma vida sofrida. | Como gerenciar todos os animais de ruas ?  | Ter um melhor gerenciamento dos animais de ruas em um só lugar |
-| Marcos Teixeira  | Eliminar papeis do seu sitio  | Com poucas habilidade em smartphone vou conseguir utilizar ?   | Quero ter um controle melhor dos meus animais da fazenda   |
-| Higor Vinicius  | Poder ter as informações em um lugar mais fácil | Vou saber os dias de campanha de vacinação? | Para os meus pets ter uma vida mais saudável   |
+![Historias de usuário](https://user-images.githubusercontent.com/82919386/189396915-18851b96-7b74-43ee-95de-27d0abc94787.png)
+
 
 ## Modelagem do Processo de Negócio 
 
